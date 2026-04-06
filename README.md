@@ -24,7 +24,8 @@ AI/ML Engineer with a strong background in Python, Langchain, Machine Learning, 
 - **Google Cloud Professional Machine Learning Engineer**  
   ![Google Cloud Certified](ProfessionalMachineLearningEngineer.pdf)
 - **AWS Certified Genrative AI Professional Developer**
-- ![AWS Certified Generative AI Developer - Professional certificate](AWS Certified Generative AI Developer - Professional certificate.pdf)
+- 
+
 
 
 ---

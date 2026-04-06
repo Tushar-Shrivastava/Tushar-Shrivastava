@@ -24,8 +24,7 @@ AI/ML Engineer with a strong background in Python, Langchain, Machine Learning, 
 - **Google Cloud Professional Machine Learning Engineer**  
   ![Google](ProfessionalMachineLearningEngineer.pdf)
 - **AWS Certified Genrative AI Professional Developer**
-- ![AWS](AWS Certified Generative AI Developer - Professional certificate.pdf)
-
+- [AWS Certified Generative AI Developer - Professional certificate.pdf](https://github.com/Tushar-Shrivastava/Tushar-Shrivastava/blob/main/AWS%20Certified%20Generative%20AI%20Developer%20-%20Professional%20certificate.pdf)
 
 
 ---
